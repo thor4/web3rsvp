@@ -4,7 +4,8 @@
   "description": "a web3-native eventbrite, except attendees need to deposit ETH to rsvp and will get it back upon checking in at the event",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "node scripts/run.js"
   },
   "keywords": [
     "events"
